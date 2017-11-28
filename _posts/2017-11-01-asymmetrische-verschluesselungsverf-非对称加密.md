@@ -47,7 +47,7 @@ Public Key Kryptographie(老师给的2006讲义 自己根据中文翻译教材�
 
 攻击方法（Aufwand von Angriffen）
 
-![asymmetrische-verschluesselungsverf01]({{ "/_images/0001.jpg" | absolute_url }})
+![asymmetrische-verschluesselungsverf01]({{ "/images/0001.jpg" | absolute_url }})
 
 2 Protokolle（协议）
 
@@ -71,13 +71,13 @@ Beweisbar sichere Public-Key-Systeme（可证明安全的 公钥系统）
 
 （！分解因子化算法）Faktorisierungsalgorithmen 
 
-![asymmetrische-verschluesselungsverf02]({{ "/_images/0002.jpg" | absolute_url }})
+![asymmetrische-verschluesselungsverf02]({{ "/images/0002.jpg" | absolute_url }})
 
 
-![asymmetrische-verschluesselungsverf03]({{ "/_images/0003.jpg" | absolute_url }})
+![asymmetrische-verschluesselungsverf03]({{ "/images/0003.jpg" | absolute_url }})
 
 
-![asymmetrische-verschluesselungsverf04]({{ "/_images/0004.jpg" | absolute_url }})
+![asymmetrische-verschluesselungsverf04]({{ "/images/0004.jpg" | absolute_url }})
 
 
 
