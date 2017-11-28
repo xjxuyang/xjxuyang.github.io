@@ -23,7 +23,7 @@ reno
 实际信息发收总量(Goodput)跟所在小范围网络负载的衰减关系：
 线性，然后越来越慢，最后断崖衰减。
 
-![Telematik]({{ "/_images/telematik-001.jpg" | absolute_url }})
+![Telematik]({{ "/images/telematik-001.jpg" | absolute_url }})
 
 Congestion Reason(拥塞出现的原因)
 一是原协议标准，收端容量设定小
