@@ -7,7 +7,9 @@ category: Post
 
 助教回复；利用中文搜索；数学意义口语表述内容撰写；
 
+
 KIT标准ppt模板；latex
+
 
 先从概述开始：
 daal能做什么
