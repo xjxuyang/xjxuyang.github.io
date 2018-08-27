@@ -66,7 +66,7 @@ In the sidebar, your will find a link section, where there are some links to oth
 add a item like:
 ```
 - title: Jekyll Template GitHub
-  url: https://github.com/runningUnicorn/minimal-blog
+  url: https://github.com/xxxxxx/xxxminimal-blog
 ```
 Where title is the name showed in the list, url is the website address you want to link to.  
 <br>
