@@ -7,7 +7,7 @@ But before the site can be really accessed, your need a few settings. The follow
 For this step, nothing special to talk about. Just register a new account and login.  
 <br>
 #### 2. Fork a Jekyll project
-You can visit [my gitHub page](https://github.com/runningUnicorn/minimal-blog) and duplicate the Jekyll project code which this site use by clicking 
+You can visit [my gitHub page](https://github.com/r____________/minimal-blog) and duplicate the Jekyll project code which this site use by clicking 
 the fork button at the upper-right corner. Of course, you can also write your own Jekyll project and upload.  
 <br>
 #### 3. Rename
@@ -27,10 +27,10 @@ Now your site should be alive on GitHub. If not, give GitHub several minites.
 ## Use minimal-blog
   
 The minimal-blog is really a minimal blog template and very easy to use. If you host your blog on GitHub, you can just fork 
-[my repository](https://github.com/runningUnicorn/minimal-blog), after a few setting steps, your blog will come into alive on GitHub. 
+[my repository](https://github.com/r____________/minimal-blog), after a few setting steps, your blog will come into alive on GitHub. 
 <br>
 #### Change the basic information of your site
-Jekyll saves configuration information in the file `_config.yml`. So just open this file with your favoiate text editor, change 
+Jekyll saves configuration information in the file `_config.yml`. So just open this file with your favorite text editor, change 
 the title, tagline to your blog's. Of course, you can control other behaviors by changes attributes， such as permalink, paginate.  
 <br>
 #### Create your first new post
